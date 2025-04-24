@@ -2,7 +2,7 @@
 local config = {
     TeamCheck = true,   -- Set to true to only target players on different teams
     FOV = 150,           -- Field of View
-    Smoothing = 5,       -- Camera smoothing factor
+    Smoothing = 1,       -- Camera smoothing factor
     KeyToToggle = Enum.KeyCode.G, -- Key to toggle the aimbot
 }
 
